@@ -7,7 +7,7 @@ import numpy as np
 import os
 import time
 
-SAVE_DIR = "/home/cam/amazon_ws/data/detectmarker/detectmarker9"
+SAVE_DIR = "/home/cam/amazon_ws/data/calibration/0014"
 bridge = CvBridge()
 
 
